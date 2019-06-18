@@ -1,0 +1,3 @@
+D:/workspace/Git_workspace/Demo1/build_temp/msvc/CMakeFiles/Demo.dir
+D:/workspace/Git_workspace/Demo1/build_temp/msvc/CMakeFiles/ALL_BUILD.dir
+D:/workspace/Git_workspace/Demo1/build_temp/msvc/CMakeFiles/ZERO_CHECK.dir
